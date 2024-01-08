@@ -1,2 +1,4 @@
 # Defect-Detection-of-Metal-Nuts
-Defect Detection of Metal Nuts using anomalib library
+
+Detecting damage to a metal nut using the Anomalib library.
+Model: Padim
